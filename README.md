@@ -41,8 +41,3 @@ A fully responsive **Amazon-inspired eCommerce UI** project built using **HTML, 
 
 This project is made for learning purposes only.
 Amazon® brand and design belong to their respective owners.
-
----
-
-Agar aap chaho to main **aapka naam, aapka GitHub username, aur project ke hisab se README ko 100% customize** karke de doon.
-Kya aap apne **project ka tech stack** (HTML/CSS/JS ya React/Node) batana chahoge?
