@@ -1,6 +1,6 @@
 # 📦 Amazon Clone
 
-A fully responsive **Amazon-inspired eCommerce UI** project built using **HTML, CSS & JavaScript** (or React/Node — aap apne hisab se edit kar sakte ho).
+A fully responsive **Amazon-inspired eCommerce UI** project built using **HTML, CSS & JavaScript.
 
 ---
 
